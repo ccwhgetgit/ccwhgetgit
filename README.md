@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently studying **NUS Business and Information Systems**
 
-- 🌱 I’m passionate in these causes **Education, Environment**
-
-- 🤝 I’m **Blockchain Director in NUS Fintech Society**
+- 🤝 I’m **Blockchain Director in NUS Fintech Society** so do reach out to collaborate together 
 
 - 📫 How to reach me **colinchanwh@gmail.com**
 
