@@ -7,7 +7,7 @@
 
 - 🤝 I’m the **Blockchain Director @ NUS Fintech Society** so do reach out to collaborate together 
 
-- 📫 Reacg me at : **colinchanwh@gmail.com**
+- 📫 Reach me at : **colinchanwh@gmail.com**
 
 - ⚡ Fun fact :  **April Fool's Baby :)**
 
