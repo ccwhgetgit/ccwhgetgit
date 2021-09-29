@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ccwhgetgit&label=Profile%20views&color=0e75b6&style=flat" alt="ccwhgetgit" /> </p>
 
-- 🔭 I’m currently studying **NUS Business and Information Systems**
+- 🔭 I’m currently studying in **NUS Business and Information Systems**
 
-- 🤝 I’m **Blockchain Director in NUS Fintech Society** so do reach out to collaborate together 
+- 🤝 I’m the **Blockchain Director @ NUS Fintech Society** so do reach out to collaborate together 
 
-- 📫 How to reach me **colinchanwh@gmail.com**
+- 📫 Reacg me at : **colinchanwh@gmail.com**
 
-- ⚡ Fun fact **April Fool's Baby :)**
+- ⚡ Fun fact :  **April Fool's Baby :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
