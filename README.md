@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ccwhgetgit&label=Profile%20views&color=0e75b6&style=flat" alt="ccwhgetgit" /> </p>
 
-- 🔭 I’m currently studying at **NUS Business and Information Systems**
-
-- 🤝 I’m the **Blockchain Director in NUS Fintech Society** and always looking to collaborate :) 
-
 - ⚡ Fun fact : **April Fool's Baby :)**
 
 ### Blogs posts
