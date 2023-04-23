@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm C.C</h1>
-<h3 align="center">A blockchain fanatic and always exploring for something cool</h3>
+<h1 align="center">Hi 👋, I'm Colin</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ccwhgetgit&label=Profile%20views&color=0e75b6&style=flat" alt="ccwhgetgit" /> </p>
 
